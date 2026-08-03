@@ -39,7 +39,7 @@ delete biodataSiswa.hobi;
 biodataSiswa.kota = 'Malang';
 
 
-//memanggil object biodataSiswa ke console//
+//memanggil object biodataSiswa menngunakan node.js//
 
 console.log(
     biodataSiswa
